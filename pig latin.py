@@ -16,3 +16,4 @@ if len(original) > 0 and original.isalpha():
   print s[2:len(word)]
 else:
   print 'empty'
+  #stuff
